@@ -14,13 +14,6 @@ The repository is organised as a data library (not a software package): most fol
 Top-level structure:
 
 ```text
-<!-- LUMHR_datasets/
-├── datasets/
-│   ├── mental_health/
-│   ├── socio_demographic/
-│   ├── health_accessibility_capacity/
-│   └── geospatial_environment/
-└── README.md -->
 LUMHR_datasets/
 ├── datasets/
 │   ├── reference/
