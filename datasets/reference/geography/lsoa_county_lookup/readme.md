@@ -23,3 +23,5 @@ https://geoportal.statistics.gov.uk/search?tags=LUP_LSOA_BUA_2022_LAD_RGN
 - South Kesteven
 - Boston
 - South Holland
+- North Lincolnshire
+- North East Lincolnshire

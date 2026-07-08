@@ -11,9 +11,9 @@ Overview of the datasets is in 20260605_NOMIS_data_at_LSOA_level.xlsx
 - RM060 - Household composition by number of people in household with a disability (2021)
     - Number of people in household with a disability and total number of people in household; no distinction is made between physical and mental disability.
 - RM070 - Disability by NS-SEC (National Statistics Socio-economic Classification) by age (2021)
-    - The number of people who have a physical or mental disability by sex and religion, but no distinction is made between physical and mental disability.
-- RM072 - Disability by religion by sex (2021)
-    - The number of people who have a physical or mental disability by sex and religion, but no distinction is made between physical and mental disability.
+    - The number of people who have a physical or mental disability by sex and religion, but no distinction is made between physical and mental disability. MSOA only.
+- RM069 - Disability by general health by age
+    - The number of people who have a physical or mental disability by general health and age, but no distinction is made between physical and mental disability. MSOA only.
 - RM113 - Provision of unpaid care by age (2021)
     - Number of people who provide unpaid care hours per week by age
 - TS037 - General health (2021)
