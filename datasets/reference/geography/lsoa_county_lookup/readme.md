@@ -13,3 +13,13 @@ https://geoportal.statistics.gov.uk/datasets/0352e811ec2c4fc5917f39aea2d1b8a3_0/
 https://geoportal.statistics.gov.uk/search?tags=LUP_LSOA_BUA_2022_LAD_RGN
 
 # Disctrics and LSOAs in Lincolnshire
+
+## Disctrics in Lincolnshire
+
+- Lincoln
+- East Lindsey
+- West Lindsey
+- North Kesteven
+- South Kesteven
+- Boston
+- South Holland
