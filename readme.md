@@ -14,8 +14,20 @@ The repository is organised as a data library (not a software package): most fol
 Top-level structure:
 
 ```text
+<!-- LUMHR_datasets/
+├── datasets/
+│   ├── mental_health/
+│   ├── socio_demographic/
+│   ├── health_accessibility_capacity/
+│   └── geospatial_environment/
+└── README.md -->
 LUMHR_datasets/
 ├── datasets/
+│   ├── reference/
+│   │   ├── geography/
+│   │   │   ├── lsoa_county_lookup/
+│   │   │   ├── lsoa_local_authority_lookup/
+│   │   │   ├── lsoa_icb_lookup/
 │   ├── mental_health/
 │   ├── socio_demographic/
 │   ├── health_accessibility_capacity/
@@ -66,3 +78,7 @@ Representative sources include:
 - Extrium England noise and air quality viewer exports
 
 Typical use: environmental exposure and place-based context analysis.
+
+### Reference
+
+Look up tables for LSOA to counties and ICBs.
